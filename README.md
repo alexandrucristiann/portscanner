@@ -1,2 +1,2 @@
 # portscanner
-Port scanner written in Go
+Small TCP port scanner written in Go...
